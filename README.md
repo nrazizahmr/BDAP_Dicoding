@@ -16,10 +16,14 @@ Streamlit Cloud : [Dashboard Proyek]
    ```  
 4. Buat Virtual Environment:
    ```
-   python3 -m venv myenv
+   python3.9 -m venv myenv
    source myenv/bin/activate
    ```
-5. Install all the requirements inside "requirements.txt"
+5. Perbarui
+   ```
+   pip install --upgrade pip setuptools wheel
+   ```
+6. Install all the requirements inside "requirements.txt"
    ```
    pip install -r dashboard\requirements.txt
    ```
