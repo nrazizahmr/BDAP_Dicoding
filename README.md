@@ -1,6 +1,6 @@
 # BDAP_Dicoding
 Bike Sharing
-Streamlit Cloud : [Dashboard Proyek] 
+Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
 ## Setup environment
 1. Clone this repository
    ```
