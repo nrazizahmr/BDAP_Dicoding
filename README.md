@@ -20,18 +20,14 @@ Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
    ```
    python -m pip install zlib jpeg libpng
    ```   
-4. Buat Virtual Environment:
+5. Buat Virtual Environment:
    ```
    python3 -m venv myenv
    source myenv/bin/activate
    ```
-5. Install all the requirements inside "requirements.txt"
+6. Install all the requirements inside "requirements.txt"
    ```
    pip install -r dashboard\requirements.txt
-   ```
-6. Instal Tanpa Binary (Build dari Source)
-   ```
-   pip install --no-binary :all: pillow
    ```
 7. Run streamlit app
    ```
