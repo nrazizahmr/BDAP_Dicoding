@@ -16,6 +16,10 @@ Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
    ```
    cd Submission
    ```
+4. Pustaka
+   ```
+   python -m pip install zlib jpeg libpng
+   ```   
 4. Buat Virtual Environment:
    ```
    python3 -m venv myenv
