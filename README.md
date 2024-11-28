@@ -25,11 +25,11 @@ Streamlit Cloud : [Dashboard Proyek]
    ```
 6. Perbarui
    ```
-   pip install --upgrade pip setuptools wheel
+   python -m pip install --upgrade pip setuptools wheel
    ```
 7. Install all the requirements inside "requirements.txt"
    ```
-   pip install -r dashboard\requirements.txt
+   python -m pip install -r dashboard\requirements.txt
    ```
 8. Run streamlit app
    ```
