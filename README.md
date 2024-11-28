@@ -25,7 +25,11 @@ Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
    ```
    pip install -r dashboard\requirements.txt
    ```
-5. Run streamlit app
+6. Instal Tanpa Binary (Build dari Source)
+   ```
+   pip install --no-binary :all: pillow
+   ```
+7. Run streamlit app
    ```
    streamlit run dashboard\dashboard.py
    ```
