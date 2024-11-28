@@ -16,9 +16,14 @@ Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
    ```
    cd Submission
    ```
-4. Install all the requirements inside "requirements.txt"
+4. Buat Virtual Environment:
    ```
-   python -m pip install -r dashboard\requirements.txt
+   python3 -m venv myenv
+   source myenv/bin/activate
+   ```
+5. Install all the requirements inside "requirements.txt"
+   ```
+   pip install -r dashboard\requirements.txt
    ```
 5. Run streamlit app
    ```
