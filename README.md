@@ -18,7 +18,7 @@ Streamlit Cloud : [Dashboard Proyek] (https://nrazizahmr.streamlit.app/)
    ```
 4. Install all the requirements inside "requirements.txt"
    ```
-   pip install -r dashboard\requirements.txt
+   python -m pip install -r dashboard\requirements.txt
    ```
 5. Run streamlit app
    ```
